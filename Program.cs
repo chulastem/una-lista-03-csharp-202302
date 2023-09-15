@@ -20,7 +20,7 @@ namespace Atividades
                     break;
                 case 6 : Exercicio_6.Exercise();
                     break;             
-                default : Console.WriteLine("Please, choose a value from 1 to 6: ");
+                default : Console.WriteLine("selecione apenas de 1 to 6: ");
                     break;
             }
 
